@@ -42,13 +42,13 @@ A Python-based calculator that solves translational and rotational kinematics pr
 2. Navigate to the project directory:
 
    ```bash
-   cd kinematics-solver
+   cd kinematics
    ```
 
 3. Run the program:
 
    ```bash
-   python main.py
+   python kinematics.py
    ```
 
 4. Follow the prompts and enter known variables to calculate the unknown quantity.
