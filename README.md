@@ -36,7 +36,7 @@ A Python-based calculator that solves translational and rotational kinematics pr
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dderden4/kinematics.git
    ```
 
 2. Navigate to the project directory:
