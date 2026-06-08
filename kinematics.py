@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import math
 
 #Translational
@@ -329,11 +323,3 @@ while count == 1:
     print("Code Complete.")
   else:
     print("Please only input yes: y or no: n")
-
-
-
-# In[ ]:
-
-
-
-
